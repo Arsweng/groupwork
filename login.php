@@ -10,7 +10,6 @@ include "connection.php";
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>login</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='bootstrapstyle.css'>
 </head>
 <body>
 <form class="form my-5 mx-5" method="post">

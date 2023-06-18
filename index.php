@@ -5,8 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="http://127.0.0.1:5500/css/bootstrapmin.css">
-    <link rel="stylesheet" href="bootstrapstyle.css">
 </head>
 <body class="bg-dark">
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
